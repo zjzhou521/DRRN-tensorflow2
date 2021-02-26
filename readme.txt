@@ -1,3 +1,5 @@
+This is an unofficial implementation of DRRN
+
 env build: build conda and pip envs in conda_env folder accordingly
 train: python train_DRRN.py
 test PSNR,SSIM: python test_DRRN.py
