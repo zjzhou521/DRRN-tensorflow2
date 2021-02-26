@@ -1,4 +1,4 @@
-This is an unofficial implementation of DRRN
+This is an unofficial implementation of DRRN in tensorflow 2.0
 
 env build: build conda and pip envs in conda_env folder accordingly
 train: python train_DRRN.py
